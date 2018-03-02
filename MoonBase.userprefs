@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BlankRoom.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BuildUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BuildButton.cs" Line="43" Column="58" />
+      <File FileName="Assets\Scripts\BuildMenu.cs" Line="46" Column="3" />
+      <File FileName="Assets\Scripts\MoonMan.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tourist.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Room.cs" Line="8" Column="27" />
+      <File FileName="Assets\Scripts\StatusDisplay.cs" Line="20" Column="138" />
+      <File FileName="Assets\Scripts\buildCategories.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoonManSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ValueTracker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\cameraScript.cs" Line="18" Column="19" />
+      <File FileName="Assets\Scripts\BlankRoom.cs" Line="27" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
